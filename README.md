@@ -14,21 +14,26 @@ Takım Unity 114
 
 ## Ürün İsmi
 
---Şovalye Serüveni??--
+--??Şovalye Serüveni??--
 
 ## Ürün Açıklaması
 
-- Bu süper platform oyununda Kahraman Şovalye(ismi belli değil)’in Varmak istediği bölge(görevin sonu)’na yaptığı yolculuğunda ulaşmasına yardımcı ol.
+- OYUNADI, klasik bir platformer oyunudur. ASSETTARZI'dan esinlenen görseller ve seslerle kendinizi dönemin içerisinde hissedeceksiniz.
+- Bu tuhaf dünyada dolaşan Kahraman Şovalye(ismi belli değil)’in Varmak istediği bölge(görevin sonu)’na yaptığı yolculuğunda ulaşmasına yardımcı ol.
 
 ## Ürün Özellikleri
 
 - Sürükleyici bir öykü ve dokunaklı bir hikaye
+- Etkileyici müzikler
+- 10 Bölüm??
 - Alternatif sonlar??
 - Çok basit
 
 ## Hedef Kitle
 
 - 13+ yaş kullanıcılar
+- Platformer seven kullanıcılar
+- ??
 
 ## Product Backlog URL
 
@@ -52,12 +57,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![Backlog 2](Direkt resmi kopyala yapıştır ile kolabiliz????) 
+![Backlog 3](Direkt resmi kopyala yapıştır ile kolabiliz????)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+  ![Screenshot 1](Direkt resmi kopyala yapıştır ile kolabiliz????)
+  ![Screenshot 2](Direkt resmi kopyala yapıştır ile kolabiliz????)
 
 - **Sprint Review**: 
 Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
