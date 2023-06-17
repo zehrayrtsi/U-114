@@ -68,9 +68,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken l
 ![Backlog 1](https://cdn.discordapp.com/attachments/1114833246505668660/1119599520318226482/trello1.png) 
 ![Backlog 2](https://cdn.discordapp.com/attachments/1114833246505668660/1119599540429918249/trello2.png) 
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](Direkt resmi kopyala yapıştır ile kolabiliz????)
-  ![Screenshot 2](Direkt resmi kopyala yapıştır ile kolabiliz????)
+- **Ürün Durumu**: Henüz implementasyon aşamasına geçilmemiştir. Asset değerlendirmeleri:
+  ![Screenshot 1]![image](https://github.com/zehrayrtsi/U-114/assets/96199657/5873b63b-6723-4df0-8053-cd26076d6b7d)
+  ![Screenshot 2]![image](https://github.com/zehrayrtsi/U-114/assets/96199657/9b5dbd15-608b-4e95-b2ee-bc0c73334d30)
 
 - **Sprint Review**: 
 - Oyunun olay örgüsü belirlenmiştir.
