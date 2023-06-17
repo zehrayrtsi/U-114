@@ -18,11 +18,13 @@ Takım Unity 114
 
 ## Ürün Açıklaması
 
-- OYUNADI, klasik bir platformer oyunudur. ASSETTARZI'dan esinlenen görseller ve seslerle kendinizi dönemin içerisinde hissedeceksiniz.
-- Bu tuhaf dünyada dolaşan Kahraman Şovalye(ismi belli değil)’in Varmak istediği bölge(görevin sonu)’na yaptığı yolculuğunda ulaşmasına yardımcı ol.
+- OYUNADI, klasik bir platformer oyunudur. Medieval dönemden esinlenen görseller ve seslerle kendinizi dönemin içerisinde hissedeceksiniz.
+- Uzun yıllardır barış ve huzurun hüküm sürdüğü Erinye Köyü sakin bir yerdi. Ancak bir karanlık gün, köyün koruyucu ruhunu simgeleyen eski bir amulet çalındı ve bu olay, köyün kaderini değiştirdi.Savaşın ortasında, kahramanımızın ailesi acımasızca katledildi.Kahramanımız, ailesinin intikamını almak için Gölge Dağları'nın derinliklerine doğru yola çıkar, köyün eski kahramanlarından kalma ipuçlarını takip ederek, amuletin sırrını çözmeye ve intikam almaya bir adım daha yaklaşır.
+Yolculuğu boyunca kahramanımız,bazıları yardımcı olacak, bazıları ise karanlık planlara sahip olacak çeşitli karakterlerle karşılaşır; yolculuğu boyunca karşılaştığı karakterlerin gerçek niyetlerini anlamak için dikkatli olmalı ve kararlarını iyi düşünmelidir. Ancak bu yolculukta kahramanımızı bekleyen bir sınav daha vardır: Aydınlık ve karanlık arasında seçim yapmak. 
+İntikamın Dansı: Aile Bağları, kahramanımızın içsel yolculuğunu, zorlu seçimlerini ve intikam alma mücadelesini anlatan duygusal bir hikaye. İnsanlık, cesaret ve aile bağlarının ön plana çıktığı bu epik macera, oyuncuları derin bir dünyaya ve unutulmaz bir yolculuğa davet ediyor.
+Bu tuhaf dünyada dolaşan Kahraman Şovalye(ismi belli değil)’in ailesinin intikamını almasına ve amuletin sırrını çözmesine yardımcı ol.
 
 ## Ürün Özellikleri
-
 - Sürükleyici bir öykü ve dokunaklı bir hikaye
 - Etkileyici müzikler
 - 10 Bölümlük
