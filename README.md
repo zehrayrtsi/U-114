@@ -65,8 +65,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken l
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp programları üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]((https://docs.google.com/document/d/1-n266dmtF1DkFCmGeNS2pexLOFj5E578gX4MVtd4bTg/edit?usp=sharing))
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]((https://github.com/zehrayrtsi/U-114/assets/96199657/97d420e9-a984-4ecf-be99-91a32acd6db4)) 
-![Backlog 2]((https://github.com/zehrayrtsi/U-114/assets/96199657/daf69d3a-78b4-497d-bcb6-a874d7810501)) 
+![Backlog 1](https://cdn.discordapp.com/attachments/1114833246505668660/1119599520318226482/trello1.png) 
+![Backlog 2]((https://cdn.discordapp.com/attachments/1114833246505668660/1119599540429918249/trello2.png)) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](Direkt resmi kopyala yapıştır ile kolabiliz????)
