@@ -7,22 +7,24 @@ Takım Unity 114
 ## Takım Elemanları
 
 - Zehra Yartaşı:  Product Owner / Developer
-- Mervegül Çetin: Scrum Master / Devoloper
+- Mervegül Çetin: Scrum Master / Developer
 - Elif Tuzcuoğlu: Developer
 - Efe AKAT: Developer
-- Uğur Kaan Akyol: Devoloper
+- Uğur Kaan Akyol: Developer
 
 ## Ürün İsmi
 
---??Şovalye Serüveni??--
+--İntikamın Dansı: Aile Bağları--
 
 ## Ürün Açıklaması
 
 - OYUNADI, klasik bir platformer oyunudur. Medieval dönemden esinlenen görseller ve seslerle kendinizi dönemin içerisinde hissedeceksiniz.
-- Uzun yıllardır barış ve huzurun hüküm sürdüğü Erinye Köyü sakin bir yerdi. Ancak bir karanlık gün, köyün koruyucu ruhunu simgeleyen eski bir amulet çalındı ve bu olay, köyün kaderini değiştirdi.Savaşın ortasında, kahramanımızın ailesi acımasızca katledildi.Kahramanımız, ailesinin intikamını almak için Gölge Dağları'nın derinliklerine doğru yola çıkar, köyün eski kahramanlarından kalma ipuçlarını takip ederek, amuletin sırrını çözmeye ve intikam almaya bir adım daha yaklaşır.
-Yolculuğu boyunca kahramanımız,bazıları yardımcı olacak, bazıları ise karanlık planlara sahip olacak çeşitli karakterlerle karşılaşır; yolculuğu boyunca karşılaştığı karakterlerin gerçek niyetlerini anlamak için dikkatli olmalı ve kararlarını iyi düşünmelidir. Ancak bu yolculukta kahramanımızı bekleyen bir sınav daha vardır: Aydınlık ve karanlık arasında seçim yapmak. 
+- Uzun yıllardır barış ve huzurun hüküm sürdüğü Erinye Köyü sakin bir yerdi. Ancak bir karanlık gün, köyün koruyucu ruhunu simgeleyen eski bir amulet çalındı ve bu olay, köyün kaderini değiştirdi.  Savaşın ortasında, kahramanımızın ailesi acımasızca katledildi.
+Kahramanımız, ailesinin intikamını almak için Gölge Dağları'nın derinliklerine doğru yola çıkar, köyün eski kahramanlarından kalma ipuçlarını takip ederek, amuletin sırrını çözmeye ve intikam almaya bir adım daha yaklaşır.
+Yolculuğu boyunca kahramanımız,  bazıları yardımcı olacak, bazıları ise karanlık planlara sahip olacak çeşitli karakterlerle karşılaşır; yolculuğu boyunca karşılaştığı karakterlerin gerçek niyetlerini anlamak için dikkatli olmalı ve kararlarını iyi düşünmelidir. Ancak bu yolculukta kahramanımızı bekleyen bir sınav daha vardır: Aydınlık ve karanlık arasında seçim yapmak. 
 İntikamın Dansı: Aile Bağları, kahramanımızın içsel yolculuğunu, zorlu seçimlerini ve intikam alma mücadelesini anlatan duygusal bir hikaye. İnsanlık, cesaret ve aile bağlarının ön plana çıktığı bu epik macera, oyuncuları derin bir dünyaya ve unutulmaz bir yolculuğa davet ediyor.
-Bu tuhaf dünyada dolaşan Kahraman Şovalye(ismi belli değil)’in ailesinin intikamını almasına ve amuletin sırrını çözmesine yardımcı ol.
+Bu tuhaf dünyada dolaşan Kahramanımız Magnus'un ailesinin intikamını almasına ve amuletin sırrını çözmesine yardımcı ol.
+
 
 ## Ürün Özellikleri
 - Sürükleyici bir öykü ve dokunaklı bir hikaye
@@ -36,6 +38,7 @@ Bu tuhaf dünyada dolaşan Kahraman Şovalye(ismi belli değil)’in ailesinin i
 - 13+ yaş kullanıcılar
 - Platformer seven kullanıcılar
 - Dönem kurgularını seven kullanıcılar
+- Hikayeli ve alternatif sonlu oyun severler
   
 
 ## Product Backlog URL
@@ -68,12 +71,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   ![Screenshot 2](Direkt resmi kopyala yapıştır ile kolabiliz????)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+- Oyunun olay örgüsü belirlenmiştir.
+- Oyun hikayesiyle tutarlı olan assetlere karar verilmesine ve uygun müzikler bulunmasına karar verilmiştir.
+- Hikayenin mekan, zaman gibi unsurları belirlenmiştir.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+ - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+ - Farklı görevler için verilen puanlar detaylı gözden geçirilmeli
+ -  Görevler için ulaşılan oranlar 2. sprintte arttırılmaya çalışılmalı.
+
 
 -**Diğer Notlar**:
 - N/A
