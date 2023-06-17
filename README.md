@@ -23,7 +23,7 @@ Takım Unity 114
 Kahramanımız, ailesinin intikamını almak için Gölge Dağları'nın derinliklerine doğru yola çıkar, köyün eski kahramanlarından kalma ipuçlarını takip ederek, amuletin sırrını çözmeye ve intikam almaya bir adım daha yaklaşır.
 Yolculuğu boyunca kahramanımız,  bazıları yardımcı olacak, bazıları ise karanlık planlara sahip olacak çeşitli karakterlerle karşılaşır; yolculuğu boyunca karşılaştığı karakterlerin gerçek niyetlerini anlamak için dikkatli olmalı ve kararlarını iyi düşünmelidir. Ancak bu yolculukta kahramanımızı bekleyen bir sınav daha vardır: Aydınlık ve karanlık arasında seçim yapmak. 
 İntikamın Dansı: Aile Bağları, kahramanımızın içsel yolculuğunu, zorlu seçimlerini ve intikam alma mücadelesini anlatan duygusal bir hikaye. İnsanlık, cesaret ve aile bağlarının ön plana çıktığı bu epik macera, oyuncuları derin bir dünyaya ve unutulmaz bir yolculuğa davet ediyor.
-Bu tuhaf dünyada dolaşan Kahramanımız Magnus'un ailesinin intikamını almasına ve amuletin sırrını çözmesine yardımcı ol.
+Bu tuhaf dünyada dolaşan Kahramanımız ailesinin intikamını almasına ve amuletin sırrını çözmesine yardımcı ol.
 
 
 ## Ürün Özellikleri
