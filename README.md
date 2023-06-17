@@ -60,19 +60,13 @@ Bu tuhaf dünyada dolaşan Kahramanımız ailesinin intikamını almasına ve am
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken listeler görevlerin durumuyla ilgili bilgileri göstermektedir.Görevlerle ilgili bilgiler görev kartlarında bulunmaktadır.
 
-Sprint Board-1
-![image](https://github.com/zehrayrtsi/U-114/assets/96199657/97d420e9-a984-4ecf-be99-91a32acd6db4)
-
-Sprint Board-Updated
-![image](https://github.com/zehrayrtsi/U-114/assets/96199657/daf69d3a-78b4-497d-bcb6-a874d7810501)
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp programları üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp programları üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](file:///C:/Users/LEVENT/Desktop/U-114_DailyScrumMeetingNotesSprint1.pdf)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](Direkt resmi kopyala yapıştır ile kolabiliz????) 
-![Backlog 3](Direkt resmi kopyala yapıştır ile kolabiliz????)
+![Backlog 1]((https://github.com/zehrayrtsi/U-114/assets/96199657/97d420e9-a984-4ecf-be99-91a32acd6db4)) 
+![Backlog 2]((https://github.com/zehrayrtsi/U-114/assets/96199657/daf69d3a-78b4-497d-bcb6-a874d7810501)) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](Direkt resmi kopyala yapıştır ile kolabiliz????)
