@@ -66,7 +66,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken l
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://cdn.discordapp.com/attachments/1114833246505668660/1119599520318226482/trello1.png) 
-![Backlog 2]((https://cdn.discordapp.com/attachments/1114833246505668660/1119599540429918249/trello2.png)) 
+![Backlog 2](https://cdn.discordapp.com/attachments/1114833246505668660/1119599540429918249/trello2.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](Direkt resmi kopyala yapıştır ile kolabiliz????)
