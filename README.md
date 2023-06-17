@@ -80,6 +80,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken l
  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
  - Farklı görevler için verilen puanlar detaylı gözden geçirilmeli
  - Görevler için ulaşılan oranlar 2. sprintte arttırılmaya çalışılmalı.
+ - Hedeflenen 100 puanlık ilerleme üzerinden 90 puana ulaşılmıştır.(Oyun içi müzik ve sesler konusunda beklenen ilerleme kaydedilememiştir.)
 
 
 -**Diğer Notlar**:
