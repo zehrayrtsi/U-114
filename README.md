@@ -18,7 +18,7 @@ Takım Unity 114
 
 ## Ürün Açıklaması
 
-- OYUNADI, klasik bir platformer oyunudur. Medieval dönemden esinlenen görseller ve seslerle kendinizi dönemin içerisinde hissedeceksiniz.
+- İntikamın Dansı: Aile Bağları, klasik bir platformer oyunudur. Medieval dönemden esinlenen görseller ve seslerle kendinizi dönemin içerisinde hissedeceksiniz.
 - Uzun yıllardır barış ve huzurun hüküm sürdüğü Erinye Köyü sakin bir yerdi. Ancak bir karanlık gün, köyün koruyucu ruhunu simgeleyen eski bir amulet çalındı ve bu olay, köyün kaderini değiştirdi.  Savaşın ortasında, kahramanımızın ailesi acımasızca katledildi.
 Kahramanımız, ailesinin intikamını almak için Gölge Dağları'nın derinliklerine doğru yola çıkar, köyün eski kahramanlarından kalma ipuçlarını takip ederek, amuletin sırrını çözmeye ve intikam almaya bir adım daha yaklaşır.
 Yolculuğu boyunca kahramanımız,  bazıları yardımcı olacak, bazıları ise karanlık planlara sahip olacak çeşitli karakterlerle karşılaşır; yolculuğu boyunca karşılaştığı karakterlerin gerçek niyetlerini anlamak için dikkatli olmalı ve kararlarını iyi düşünmelidir. Ancak bu yolculukta kahramanımızı bekleyen bir sınav daha vardır: Aydınlık ve karanlık arasında seçim yapmak. 
