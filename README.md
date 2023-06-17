@@ -25,15 +25,16 @@ Takım Unity 114
 
 - Sürükleyici bir öykü ve dokunaklı bir hikaye
 - Etkileyici müzikler
-- 10 Bölüm??
-- Alternatif sonlar??
-- Çok basit
+- 10 Bölümlük
+- Alternatif sonlar
+- Kolay öğrenme
 
 ## Hedef Kitle
 
 - 13+ yaş kullanıcılar
 - Platformer seven kullanıcılar
-- ??
+- Dönem kurgularını seven kullanıcılar
+  
 
 ## Product Backlog URL
 
