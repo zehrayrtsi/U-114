@@ -53,8 +53,7 @@ Bu tuhaf dünyada dolaşan Kahramanımız ailesinin intikamını almasına ve am
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 ile
-- başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -69,8 +68,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken l
 ![Backlog 2](https://cdn.discordapp.com/attachments/1114833246505668660/1119599540429918249/trello2.png) 
 
 - **Ürün Durumu**: Henüz implementasyon aşamasına geçilmemiştir. Asset değerlendirmeleri:
-  ![Screenshot 1]![image](https://github.com/zehrayrtsi/U-114/assets/96199657/5873b63b-6723-4df0-8053-cd26076d6b7d)
-  ![Screenshot 2]![image](https://github.com/zehrayrtsi/U-114/assets/96199657/9b5dbd15-608b-4e95-b2ee-bc0c73334d30)
+  ![image](https://github.com/zehrayrtsi/U-114/assets/96199657/5873b63b-6723-4df0-8053-cd26076d6b7d)
+  ![image](https://github.com/zehrayrtsi/U-114/assets/96199657/9b5dbd15-608b-4e95-b2ee-bc0c73334d30)
 
 - **Sprint Review**: 
 - Oyunun olay örgüsü belirlenmiştir.
@@ -80,7 +79,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken l
 - **Sprint Retrospective:**
  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
  - Farklı görevler için verilen puanlar detaylı gözden geçirilmeli
- -  Görevler için ulaşılan oranlar 2. sprintte arttırılmaya çalışılmalı.
+ - Görevler için ulaşılan oranlar 2. sprintte arttırılmaya çalışılmalı.
 
 
 -**Diğer Notlar**:
