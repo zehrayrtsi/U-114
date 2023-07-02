@@ -89,6 +89,38 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken l
 ---
 
 # Sprint 2
+- **Sprint Notları**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Şu ana kadar tamamlanan puan**: 90 puan
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp programları üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](//daily scrum ss leri)
+
+- **Sprint board update**: Sprint board screenshotları: 
+ ![image](https://github.com/zehrayrtsi/U-114/assets/96199657/7aa5827e-f543-4c3b-b415-ef1e1e8a2582)
+
+
+- **Ürün Durumu**: :
+- Asset seçimi tamamanladı. Neleri kullanacağımıza karar verdik
+- Arkaplan seçimleri tamamlandı.
+- Arkaplan müziği belirlendi. 
+
+- **Sprint Review**:
+-  Oyunun arka planı belirlenmiştir.
+- Oyunun Assetleri belirlenmiştir.
+- Bir önceki sprintte tamamlanması gereken oyunun arka plan müziği 
+belirlenmiştir
+
+- **Sprint Retrospective:**
+- Takım içindeki görev dağılımı son haline ulaşmıştır.
+- Görevler için ulaşılan oranlar 3. sprintte arttırılmaya çalışılmalı.
+- Hedeflenen 100 puanlık ilerleme üzerinden 80 puana ulaşılmıştır.(Oyunun olay 
+örgüsünün tamamı halen sona ermedi. Bir sonraki sprintte tamamlanmalı)
+
+
+-**Diğer Notlar**:
+- 
 
 
 ---
