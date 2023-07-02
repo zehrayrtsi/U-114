@@ -104,7 +104,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken l
 - **Ürün Durumu**: :
 - Asset seçimi tamamanladı. Neleri kullanacağımıza karar verdik
 - Arkaplan seçimleri tamamlandı.
-- Arkaplan müziği belirlendi. 
+- Arkaplan müziği belirlendi.
+- ![image](https://github.com/zehrayrtsi/U-114/assets/96199657/bf5d7c9e-bfdd-4708-8b16-90112b8d4a09)
+- ![image](https://github.com/zehrayrtsi/U-114/assets/96199657/46da59e0-bf47-4ed9-9f0d-1546bf164c45)
+
+
 
 - **Sprint Review**:
 -  Oyunun arka planı belirlenmiştir.
