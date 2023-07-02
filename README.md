@@ -95,7 +95,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken l
 
 - **Şu ana kadar tamamlanan puan**: 90 puan
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp programları üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](//daily scrum ss leri)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp programları üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](![image](https://github.com/zehrayrtsi/U-114/assets/96199657/166a7e3a-5dca-411e-9e93-fbc81369bf5e), ![image](https://github.com/zehrayrtsi/U-114/assets/96199657/d5a0528a-1d49-44bf-9a7c-ed1ca1bff3c1)
 
 - **Sprint board update**: Sprint board screenshotları: 
  ![image](https://github.com/zehrayrtsi/U-114/assets/96199657/7aa5827e-f543-4c3b-b415-ef1e1e8a2582)
