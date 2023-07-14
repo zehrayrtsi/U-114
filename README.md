@@ -132,7 +132,7 @@ belirlenmiştir
 # Sprint 3
  **Sprint içinde tamamlanması tahmin edilen puan**: Diğer sprintlerden kalan puanların eklenmesiyle bu sprint için tamamlanması gereken puan 120 dir.
 
-**Daily Scrum**:Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp programları üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Google drive linki olarak tarafımızdan paylaşılmaktadır:[Sprint 2 Daily Scrum Chats](https://docs.google.com/document/d/1pzBJAlJ1b03n9O0akwrCXBY1__o7n5ytgjLMrX7-17U/edit?usp=sharing)
+**Daily Scrum**:Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp programları üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Google drive linki olarak tarafımızdan paylaşılmaktadır:[Sprint 3 Daily Scrum Chats](https://docs.google.com/document/d/1pzBJAlJ1b03n9O0akwrCXBY1__o7n5ytgjLMrX7-17U/edit?usp=sharing)
 
 Sprint board update: Sprint board screenshotları:
 ![Backlog 1]![sprintboard](https://github.com/zehrayrtsi/U-114/assets/96199657/258e4fb9-9c58-4fca-a59f-4332925a1f2d)
