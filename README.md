@@ -5,9 +5,9 @@ Takım U-114
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Zehra Yartaşı: Product Owner / Developer
+- Efe Akat: Product Owner / Developer
 - Mervegül Çetin: Scrum Master/Developer
-- Efe Akat: Developer
+- Zehra Yartaşı: Developer
 - Elif Tuzcuoğlu: Developer
 - Uğur Kaan Akyol:Developer
 
