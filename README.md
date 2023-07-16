@@ -65,8 +65,8 @@ Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait k
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](![image](https://github.com/zehrayrtsi/U-114/assets/120044477/427937e6-bb27-42da-89ac-eae84ca8c877)
-  ![Screenshot 2](![image](https://github.com/zehrayrtsi/U-114/assets/120044477/443c0014-11e3-4499-93ac-d7ee1ed8cad5)
+  (![image](https://github.com/zehrayrtsi/U-114/assets/120044477/427937e6-bb27-42da-89ac-eae84ca8c877)
+  (![image](https://github.com/zehrayrtsi/U-114/assets/120044477/443c0014-11e3-4499-93ac-d7ee1ed8cad5)
   
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
