@@ -140,7 +140,11 @@ Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydo
 
 - **Sprint Retrospective:**
 
-  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+  - Hedeflenen toplam sprint puanları tamamlanmıştır.
+  - Proje süresice gösterilen katılım ve akış değerlendirilmiştir.
+  - Projenin doğru bir şekilde tamamlanmasıyla ekip arkadaşları tebrik edilmiştir.
 
-
+- **Sprint Notları:**
+  - 1. ve 2. sprintlere oranla daha fazla ilerleme görüldü.
+  - Ekip içi iletişime daha fazla önem verildi.
 ---
