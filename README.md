@@ -1,4 +1,4 @@
-# **Takım İsmi**
+![image](https://github.com/zehrayrtsi/U-114/assets/120044477/dea3522b-938c-4049-bcf1-fda36481a46d)# **Takım İsmi**
 
 Takım U-114
 
@@ -16,7 +16,7 @@ Takım U-114
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Unity Team 114 Trello Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
 
 ## Ürün Açıklaması
 
@@ -65,9 +65,9 @@ Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait k
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
+  ![Screenshot 1](![image](https://github.com/zehrayrtsi/U-114/assets/120044477/427937e6-bb27-42da-89ac-eae84ca8c877)
+  ![Screenshot 2](![image](https://github.com/zehrayrtsi/U-114/assets/120044477/443c0014-11e3-4499-93ac-d7ee1ed8cad5)
+  
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
 
