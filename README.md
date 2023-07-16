@@ -98,7 +98,8 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://drive.google.com/file/d/1_tcEGSEocHF-J1_zxY36851Co9Hxa6V_/view?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/2022-05-22%2019_25_30-Window.png) 
+![Backlog 1]![image](https://github.com/zehrayrtsi/U-114/assets/96199657/035c4696-d470-4c2a-913d-dea4959c9972)
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
