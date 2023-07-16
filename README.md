@@ -17,7 +17,10 @@ Takım U-114
 
 ## Product Backlog URL
 
-[Unity Team 114 Trello Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Sprintboard1]![image](https://github.com/zehrayrtsi/U-114/assets/96199657/6c31925e-4798-48c5-9c14-758fc326457e)
+[SprintboardUpdate]![image](https://github.com/zehrayrtsi/U-114/assets/96199657/61ea8b03-7c5b-4b4a-bd84-3916b1f1a887)
+
+
 
 ## Ürün Açıklaması
 
@@ -56,13 +59,14 @@ Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait k
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://drive.google.com/file/d/1x1EDJDZGMr75BrfVw479L9FCZrpWoxAR/view?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+[Sprintboard1]![image](https://github.com/zehrayrtsi/U-114/assets/96199657/6c31925e-4798-48c5-9c14-758fc326457e)
+[SprintboardUpdate]![image](https://github.com/zehrayrtsi/U-114/assets/96199657/61ea8b03-7c5b-4b4a-bd84-3916b1f1a887)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
@@ -161,8 +165,9 @@ Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydo
 - Oyuna yeni karakterler eklendi.
 - Oyun ve karakterlerin hikayesi düzenlendi.
 - Karakterlerin diyalogları eklendi.
-- **Sprint Retrospective:**
 
+
+- **Sprint Retrospective:**
   - Hedeflenen toplam sprint puanları tamamlanmıştır.
   - Proje süresice gösterilen katılım ve akış değerlendirilmiştir.
   - Projenin doğru bir şekilde tamamlanmasıyla ekip arkadaşları tebrik edilmiştir.
