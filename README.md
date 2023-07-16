@@ -129,11 +129,11 @@ Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydo
 
 - **Daily Scrum**: Daily Scrum toplantıları Google drive linki olarak paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://docs.google.com/document/d/1pzBJAlJ1b03n9O0akwrCXBY1__o7n5ytgjLMrX7-17U/edit?usp=sharing)
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]
-![backlog1](https://github.com/zehrayrtsi/U-114/assets/96199657/97ad9b1e-6f4c-41b2-97fa-36ba2ebaf287)
-![Backlog 2]
-![image](https://github.com/zehrayrtsi/U-114/assets/96199657/8564bff2-cfbd-42e9-8085-5c2927cf6ec2)
+- **Sprint board update**: Sprint board screenshotları:
+- 
+![Screenshot1](https://github.com/zehrayrtsi/U-114/assets/96199657/97ad9b1e-6f4c-41b2-97fa-36ba2ebaf287)
+
+![Screenshot2](https://github.com/zehrayrtsi/U-114/assets/96199657/8564bff2-cfbd-42e9-8085-5c2927cf6ec2)
 
 
 
@@ -173,6 +173,6 @@ Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydo
   - Projenin doğru bir şekilde tamamlanmasıyla ekip arkadaşları tebrik edilmiştir.
 
 - **Sprint Notları:**
-  - 1. ve 2. sprintlere oranla daha fazla ilerleme görüldü.
-  - Ekip içi iletişime daha fazla önem verildi.
+ - İlk iki sprinte oranla daha fazla ilerleme görüldü.
+ - Ekip içi iletişime daha fazla önem verildi.
 ---
