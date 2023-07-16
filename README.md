@@ -5,10 +5,11 @@ Takım U-114
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Muhammed Mustafa Aksoy: Scrum Master / Product Owner / Developer
-- Sümeyye Aydoğan: Developer
-- Yunus Emre Gürel: Developer
-- Zeynep Nur Meşe: Aktif Olmayan Üye
+- Zehra Yartaşı: Product Owner / Developer
+- Mervegül Çetin: Scrum Master/Developer
+- Efe Akat: Developer
+- Elif Tuzcuoğlu: Developer
+- Uğur Kaan Akyol:Developer
 
 ## Ürün İsmi
 
@@ -119,25 +120,47 @@ Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydo
 
 # Sprint 3
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
+- **Sprint içinde tamamlanması tahmin edilen puan**: Hedeflenen toplam puan 300 olduğundan, bu sprintte ilk iki sprintten kalan puanlarla birlikte ulaşılması hedeflenen puan 120 dir.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantıları Google drive linki olarak paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://docs.google.com/document/d/1pzBJAlJ1b03n9O0akwrCXBY1__o7n5ytgjLMrX7-17U/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2022-06-06%2000_19_38-Clipboard.png) 
+![Backlog 1]
+![backlog1](https://github.com/zehrayrtsi/U-114/assets/96199657/97ad9b1e-6f4c-41b2-97fa-36ba2ebaf287)
+![Backlog 2]
+![image](https://github.com/zehrayrtsi/U-114/assets/96199657/8564bff2-cfbd-42e9-8085-5c2927cf6ec2)
+
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/3.png)
+  ![Screenshot 1]
+  ![oyungiriş](https://github.com/zehrayrtsi/U-114/assets/96199657/096ce484-7c97-4f1f-82bf-e392e79c8302)
+
+  ![Screenshot 2]
+  ![image1](https://github.com/zehrayrtsi/U-114/assets/96199657/a98c221a-e521-4200-80d0-21ad2e4a2f42)
+
+  ![Screenshot 3]
+  ![image2](https://github.com/zehrayrtsi/U-114/assets/96199657/056a7693-ad8c-4617-9f19-492c4c6b951b)
+  
+  ![Screenshot 4]
+![image3](https://github.com/zehrayrtsi/U-114/assets/96199657/151753d8-5bc6-4b9f-9638-bba71871a32d)
+
+  ![Screenshot 5]
+![image4](https://github.com/zehrayrtsi/U-114/assets/96199657/ba40e0d5-907e-45bc-83c0-dfa56e42a25d)
+
+  ![Screenshot 6]
+  ![intro](https://github.com/zehrayrtsi/U-114/assets/96199657/61c82321-809e-48a9-b520-2d7219b2ddbb)
 
 
-- **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
-Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
 
+- **Sprint Review**:
+- Oyun için intro yapıldı.
+- Oyun içi mapler düzenlendi.
+- Oyuna yeni karakterler eklendi.
+- Oyun ve karakterlerin hikayesi düzenlendi.
+- Karakterlerin diyalogları eklendi.
 - **Sprint Retrospective:**
 
   - Hedeflenen toplam sprint puanları tamamlanmıştır.
