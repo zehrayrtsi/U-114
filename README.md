@@ -1,4 +1,4 @@
-![image](https://github.com/zehrayrtsi/U-114/assets/120044477/dea3522b-938c-4049-bcf1-fda36481a46d)# **Takım İsmi**
+# **Takım İsmi**
 
 Takım U-114
 
